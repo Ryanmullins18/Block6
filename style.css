@@ -1,0 +1,19 @@
+.container1{
+    color: rgb(28, 28, 176);
+border: 2px;
+} 
+.subheading{
+    color: rgb(0, 0, 0);
+background-color: rgba(128, 128, 128, 0.603); height: 150px; width: 500px;
+padding: 2px; 
+border-radius: 2px; border: 2px; border-color: black;
+margin-left: 3px; font-size: xx-large;
+}
+
+.canned {
+    color: red;
+    background-color: blue;
+    margin-left: 300px;
+    width: 200px;
+    height: 200px;
+}

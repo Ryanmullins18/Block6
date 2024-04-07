@@ -64,5 +64,10 @@ margin-left: 4%; font-size: xx-large;
         padding: 2px
     }
     .pantrypic2 {
-        margin-left: 1in;
+        padding: 4px;
     }
+    .fridgepic {
+        padding: 10px;
+    }
+
+    
